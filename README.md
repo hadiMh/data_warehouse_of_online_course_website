@@ -2,7 +2,7 @@
 
 Data Warehouse to keep track of database data of an online course selling website.
 
-![datawarehouse](https://user-images.githubusercontent.com/36237368/127318949-2f23f9c1-956e-4c2b-baf7-fcada2d69485.png)
+![datawarehouse-min](https://user-images.githubusercontent.com/36237368/127320048-060457e2-b52a-497e-a273-94608573fcdc.png)
 
 ## Data Marts:
 1. Course Education
@@ -44,16 +44,16 @@ Data Warehouse to keep track of database data of an online course selling websit
 ## Dimensions Details:
 
 1. S_Dim_User
-![S_Dim_User](https://user-images.githubusercontent.com/36237368/127319284-ed2293b8-c093-4b2b-8376-856b4c31f8c0.png)
+![S_Dim_User-min](https://user-images.githubusercontent.com/36237368/127320073-cc13a462-630c-4f4a-9437-02cc5bb9f4a9.png)
 
 2. S_Dim_Course
-![S_Dim_Course](https://user-images.githubusercontent.com/36237368/127319106-ea434a48-d53b-4ce6-92b2-36cb6d5d5257.png)
+![S_Dim_Course-min](https://user-images.githubusercontent.com/36237368/127320068-02a47129-5c05-4de9-a011-dc44b06e155e.png)
 3. S_Dim_Date
 4. C_Dim_CourseTopic
-![S_Dim_CourseTopic](https://user-images.githubusercontent.com/36237368/127319143-65f3543f-0b47-461e-bd56-4b32cd0c76de.png)
+![S_Dim_CourseTopic-min](https://user-images.githubusercontent.com/36237368/127320070-2c36e65f-c00c-4bbb-89b1-8c0b4300554f.png)
 5. HR_Dim_Instructor
-![HR_Dim_Instructor](https://user-images.githubusercontent.com/36237368/127318980-6b81e7b6-8397-481f-97a5-c961acee644c.png)
+![HR_Dim_Instructor-min](https://user-images.githubusercontent.com/36237368/127320057-ea704a49-8710-4cfe-89bc-965fc7bdf789.png)
 6. HR_Dim_Staff
-![HR_Dim_Staff](https://user-images.githubusercontent.com/36237368/127319036-d7755952-c965-4e4c-b954-74901bc276bd.png)
+![HR_Dim_Staff-min](https://user-images.githubusercontent.com/36237368/127320060-a8784070-f2d7-44c5-a07a-b8c615003b52.png)
 7. HR_Dim_TicketCategory
-![HR_Dim_TicketCategory](https://user-images.githubusercontent.com/36237368/127319089-0cd6c89b-4916-45b3-8b8a-93d4e47231d7.png)
+![HR_Dim_TicketCategory-min](https://user-images.githubusercontent.com/36237368/127320063-380f5388-31ec-4a82-80c4-4c2d5cace83b.png)
